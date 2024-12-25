@@ -1,0 +1,51 @@
+2024-12-17 19:04:43,167 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 19:04:43,168 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 19:04:43,192 - INFO -  * Restarting with stat
+2024-12-17 19:04:43,446 - WARNING -  * Debugger is active!
+2024-12-17 19:04:43,462 - INFO -  * Debugger PIN: 201-226-835
+2024-12-17 19:06:46,926 - INFO - 127.0.0.1 - - [17/Dec/2024 19:06:46] "POST /generate-token HTTP/1.1" 200 -
+2024-12-17 19:06:59,612 - INFO - Request received: /secure-data
+2024-12-17 19:06:59,612 - INFO - 127.0.0.1 - - [17/Dec/2024 19:06:59] "[31m[1mPOST /secure-data HTTP/1.1[0m" 401 -
+2024-12-17 19:07:17,159 - INFO - Request received: /secure-data
+2024-12-17 19:07:17,160 - INFO - 127.0.0.1 - - [17/Dec/2024 19:07:17] "[31m[1mPOST /secure-data HTTP/1.1[0m" 401 -
+2024-12-17 19:08:00,121 - INFO - Request received: /secure-data
+2024-12-17 19:08:00,254 - INFO - 127.0.0.1 - - [17/Dec/2024 19:08:00] "POST /secure-data HTTP/1.1" 200 -
+2024-12-17 19:09:03,822 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 19:09:03,822 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 19:09:03,826 - INFO -  * Restarting with stat
+2024-12-17 19:09:04,076 - WARNING -  * Debugger is active!
+2024-12-17 19:09:04,076 - INFO -  * Debugger PIN: 201-226-835
+2024-12-17 22:08:41,809 - INFO - 127.0.0.1 - - [17/Dec/2024 22:08:41] "POST /generate-token HTTP/1.1" 200 -
+2024-12-17 22:09:00,078 - INFO - 127.0.0.1 - - [17/Dec/2024 22:09:00] "POST /generate-token HTTP/1.1" 200 -
+2024-12-17 22:09:36,397 - INFO - Request received: /secure-data
+2024-12-17 22:09:36,397 - INFO - 127.0.0.1 - - [17/Dec/2024 22:09:36] "[31m[1mPOST /secure-data HTTP/1.1[0m" 401 -
+2024-12-17 22:10:20,375 - INFO - Request received: /secure-data
+2024-12-17 22:10:20,376 - INFO - 127.0.0.1 - - [17/Dec/2024 22:10:20] "[31m[1mPOST /secure-data HTTP/1.1[0m" 401 -
+2024-12-17 22:11:04,229 - INFO - Request received: /secure-data
+2024-12-17 22:11:04,332 - INFO - 127.0.0.1 - - [17/Dec/2024 22:11:04] "POST /secure-data HTTP/1.1" 200 -
+2024-12-17 22:11:41,487 - INFO - Request received: /decrypt-data
+2024-12-17 22:11:41,488 - ERROR - Error: Incorrect padding
+2024-12-17 22:11:41,488 - INFO - 127.0.0.1 - - [17/Dec/2024 22:11:41] "[35m[1mPOST /decrypt-data HTTP/1.1[0m" 500 -
+2024-12-17 22:15:53,084 - INFO - Request received: /secure-data
+2024-12-17 22:15:53,084 - INFO - 127.0.0.1 - - [17/Dec/2024 22:15:53] "[31m[1mPOST /secure-data HTTP/1.1[0m" 401 -
+2024-12-17 22:16:06,875 - INFO - Request received: /secure-data
+2024-12-17 22:16:06,875 - INFO - 127.0.0.1 - - [17/Dec/2024 22:16:06] "[31m[1mPOST /secure-data HTTP/1.1[0m" 401 -
+2024-12-17 22:17:53,942 - INFO - 127.0.0.1 - - [17/Dec/2024 22:17:53] "[31m[1mGET /generate-token HTTP/1.1[0m" 405 -
+2024-12-17 22:17:55,587 - INFO - 127.0.0.1 - - [17/Dec/2024 22:17:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-17 22:19:18,681 - INFO - Request received: /decrypt-data
+2024-12-17 22:19:18,681 - INFO - 127.0.0.1 - - [17/Dec/2024 22:19:18] "[31m[1mPOST /decrypt-data HTTP/1.1[0m" 401 -
+2024-12-17 22:20:08,036 - INFO - Request received: /decrypt-data
+2024-12-17 22:20:08,038 - INFO - 127.0.0.1 - - [17/Dec/2024 22:20:08] "POST /decrypt-data HTTP/1.1" 200 -
+2024-12-18 09:06:03,112 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-18 09:06:03,112 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-18 09:06:03,117 - INFO -  * Restarting with stat
+2024-12-18 09:06:03,448 - WARNING -  * Debugger is active!
+2024-12-18 09:06:03,449 - INFO -  * Debugger PIN: 118-240-267
+2024-12-18 09:06:14,423 - INFO - 127.0.0.1 - - [18/Dec/2024 09:06:14] "POST /generate-token HTTP/1.1" 200 -
+2024-12-18 09:07:22,212 - INFO - Request received: /secure-data
+2024-12-18 09:07:22,291 - INFO - 127.0.0.1 - - [18/Dec/2024 09:07:22] "POST /secure-data HTTP/1.1" 200 -
+2024-12-18 09:08:37,453 - INFO - Request received: /decrypt-data
+2024-12-18 09:08:37,454 - INFO - 127.0.0.1 - - [18/Dec/2024 09:08:37] "POST /decrypt-data HTTP/1.1" 200 -
